@@ -1,6 +1,6 @@
 public class test {
 
-    public static void main(string[] args) {
+    public static void main() {
         System.out.println("Hello");
     }
 }
